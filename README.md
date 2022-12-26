@@ -5,7 +5,7 @@
 
 💻 &nbsp; I'm working on android app development\
 📝 &nbsp; I'm studying data structures and algorithms to solve problems\
-🛠 &nbsp; I like to understand how complex systems work\
+🛠 &nbsp; I like to get deep understanding of how complex systems work\
 🔬 &nbsp; I enjoy software architecture and testing\
 💡 &nbsp; I use git, kotlin, java, gradle, android studio
 
