@@ -10,8 +10,8 @@
 💡 &nbsp; I use git, kotlin, java, gradle, android studio
 
 Shipped (or idle) projects:
-TVSofa
-WhereWatch
+- TVSofa
+- WhereWatch
 
 Currently building Owly
 
